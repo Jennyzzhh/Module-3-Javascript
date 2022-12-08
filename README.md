@@ -23,6 +23,7 @@
 
 ## deployed application
 
-[application link] (https://jennyzzhh.github.io/Module-2-Advanced-CSS/)
+[application link] (https://jennyzzhh.github.io/Module-3-Javascript/)
+[Github link] (https://github.com/Jennyzzhh/Module-3-Javascript.git)
 
 
